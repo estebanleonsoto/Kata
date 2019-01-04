@@ -1,6 +1,8 @@
 # kata-morse
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to decode morse code.
+
+https://www.codewars.com/kata/decode-the-morse-code
 
 ## Usage
 
